@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T14:13:02.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kLpH2ZZ8P6n17_POqZyh" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T14:17:11.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bq5EyKaCvLsu5mDoo25y" version="21.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y8gMqKH2Y-qbZQRc717D-0" value="INI" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="50" width="70" height="40" as="geometry" />
+          <mxGeometry x="212.5" y="50" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8gMqKH2Y-qbZQRc717D-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y8gMqKH2Y-qbZQRc717D-1" target="Y8gMqKH2Y-qbZQRc717D-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,13 +23,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y8gMqKH2Y-qbZQRc717D-4" value="&lt;div style=&quot;language:es-CO;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;•Diligenciar Triage &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="250" width="225" height="60" as="geometry" />
+          <mxGeometry x="135" y="260" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U0834daIoOmRzTqct_N0-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y8gMqKH2Y-qbZQRc717D-6" target="Y8gMqKH2Y-qbZQRc717D-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y8gMqKH2Y-qbZQRc717D-6" value="&lt;div style=&quot;language:es-CO;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;•Recategorización Triage &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="360" width="225" height="70" as="geometry" />
+          <mxGeometry x="135" y="360" width="225" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y8gMqKH2Y-qbZQRc717D-8" value="&lt;div style=&quot;language:es-CO;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;•Urgencias&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="360" width="225" height="70" as="geometry" />
+          <mxGeometry x="420" y="360" width="225" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U0834daIoOmRzTqct_N0-2" value="Direccionar&amp;nbsp; Atención Ambularia&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="490" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U0834daIoOmRzTqct_N0-3" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Direccionar&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U0834daIoOmRzTqct_N0-4" value="Direccionar Atención Urgencias&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="490" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
